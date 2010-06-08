@@ -1,0 +1,165 @@
+q=tan(x) = (what basic trig functions?)
+c=sin(x)/cos(x)
+
+q=sec(x) = (what basic trig functions?)
+c=1/cos(x)
+
+q=cot(x) = (what basic trig functions?)
+c=cos(x)/sin(x)
+
+q=csc(x) = (what basic trig functions?)
+c=1/sin(x)
+
+q=1 = (what basic trig functions?)
+c=cos^2(x) + sin^2(x)
+
+q=sin(2x) = (what basic trig functions?)
+c=2sin(x)cos(x)
+
+q=cos(2x) = (what basic trig functions? (not sin))
+c=2cos^2(x) - 1
+
+q=cos(2x) = (what basic trig functions? (not cos))
+c=1 - 2sin^2(x)
+
+q=cos(2x) = (what basic trig functions? (not cos))
+c=cos^2(x) - sin^2(x)
+
+q=cos^2(x) = (what basic trig functions?)
+c=(1 + cos(2x))/2
+
+q=sin^2(x) = (what basic trig functions?)
+c=(1 - cos(2x))/2
+
+q=1 + tan^2(x) = (what basic trig functions?)
+c=sec^2(x)
+
+q=tan^2(x) = (what basic trig functions?)
+c=sec^2(x) - 1
+
+q=1 + cot^2(x) = (what basic trig functions?)
+c=csc^2(x)
+
+q=cot^2(x) = (what basic trig functions?)
+c=csc^2(x) - 1
+
+q=Length of f(x)?
+c=I(sqrt(1 + D(f(x))^2))
+
+q=I(1/x) =
+c=ln(x) + c
+
+q=ln(e^x) =
+c=x
+
+q=e^ln(x) =
+c=x
+
+q=a^x =
+c=e^(xln(a))
+
+q=D(a^x) =
+c=ln(a)a^x
+
+q=I(a^x) =
+c=(a^x)/ln(a) + c
+
+q=log_a(xy) =
+c=log_a(x) + log_a(y)
+
+q=log_a(1/x) =
+c=-log_a(x)
+
+q=log_a(x^y) =
+c=ylog_a(x)
+
+q=log_a(x) =
+c=ln(x)/ln(a)
+
+q=D(log_a|x|) =
+c=1/(xln(a))
+
+q=D(arcsin(x)) =
+c=1/sqrt(1 - x^2)
+
+q=D(arccos(x)) =
+c=-1/sqrt(1 - x^2)
+
+q=D(arctan(x)) =
+c=1/(1 + x^2)
+
+q=D(arccot(x)) =
+c=-1/(1 + x^2)
+
+q=D(arcsec(x)) =
+c=1/(|x|sqrt(x^2 - 1))
+
+q=D(arccsc(x)) =
+c=-1/(|x|sqrt(x^2 - 1))
+
+q=cosh(x) =
+c=(e^x + e^-x)/2
+
+q=sinh(x) =
+c=(e^x - e^-x)/2
+
+q=tanh(x) =
+c=sinh(x)/cosh(x)
+
+q=coth(x) =
+c=cosh(x)/sinh(x)
+
+q=sech(x) =
+c=1/cosh(x)
+
+q=csch(x) =
+c=1/sinh(x)
+
+q=1 = (what hyperbolic functions?)
+c=cosh^2(x) - sinh^2(x)
+
+q=sech^2(x) =
+c=1 - tanh^2(x)
+
+q=csch^2(x) =
+c=coth^2(x) - 1
+
+q=D(cosh(x)) =
+c=sinh(x)
+
+q=D(sinh(x)) =
+c=cosh(x)
+
+q=D(tanh(x)) =
+c=sech^2(x)
+
+q=D(coth(x)) =
+c=-csch^2(x)
+
+q=D(sech(x)) =
+c=-sech(x)tanh(x)
+
+q=D(csch(x)) =
+c=-csch(x)coth(x)
+
+q=D(arcsinh(x)) =
+c=1/sqrt(x^2 + 1)
+
+q=D(arccosh(x)) =
+c=-1/sqrt(x^2 - 1)
+
+q=D(arctanh(x)) =
+c=1/(1 - x^2)
+
+q=D(arccoth(x)) =
+c=-1/(1 - x^2)
+
+q=D(arcsech(x)) =
+c=1/((x)sqrt(1 - x^2))
+
+q=D(arccsch(x)) =
+c=-1/(|x|sqrt(1 + x^2))
+
+q=I(udv) =
+c=uv - I(vdu)
+
