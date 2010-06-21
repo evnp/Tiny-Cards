@@ -146,19 +146,19 @@ q=D(arcsinh(x)) =
 c=1/sqrt(x^2 + 1)
 
 q=D(arccosh(x)) =
-c=-1/sqrt(x^2 - 1)
+c=1/sqrt(x^2 - 1)
 
 q=D(arctanh(x)) =
 c=1/(1 - x^2)
 
 q=D(arccoth(x)) =
-c=-1/(1 - x^2)
+c=1/(1 - x^2)
 
 q=D(arcsech(x)) =
 c=1/((x)sqrt(1 - x^2))
 
 q=D(arccsch(x)) =
-c=-1/(|x|sqrt(1 + x^2))
+c=1/(|x|sqrt(1 + x^2))
 
 q=I(udv) =
 c=uv - I(vdu)
